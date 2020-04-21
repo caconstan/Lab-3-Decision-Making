@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\bin\Debug\netcoreapp3.1\Lab 3 Decision Making.exe
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\bin\Debug\netcoreapp3.1\Lab 3 Decision Making.deps.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\bin\Debug\netcoreapp3.1\Lab 3 Decision Making.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\bin\Debug\netcoreapp3.1\Lab 3 Decision Making.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\bin\Debug\netcoreapp3.1\Lab 3 Decision Making.dll
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\bin\Debug\netcoreapp3.1\Lab 3 Decision Making.pdb
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\obj\Debug\netcoreapp3.1\Lab 3 Decision Making.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\obj\Debug\netcoreapp3.1\Lab 3 Decision Making.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\obj\Debug\netcoreapp3.1\Lab 3 Decision Making.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\obj\Debug\netcoreapp3.1\Lab 3 Decision Making.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\obj\Debug\netcoreapp3.1\Lab 3 Decision Making.dll
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\obj\Debug\netcoreapp3.1\Lab 3 Decision Making.pdb
+C:\Users\Chris\Documents\GC bootcamp\week1\Lab 3 Decision Making\Lab 3 Decision Making\obj\Debug\netcoreapp3.1\Lab 3 Decision Making.genruntimeconfig.cache
